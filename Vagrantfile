@@ -92,7 +92,7 @@ Vagrant.configure("2") do |config|
   config.vm.provision :shell, :path => "java.sh"
   config.vm.provision :shell, :path => "firefox.sh" 
   config.vm.provision :shell, :path => "jmeter.sh"
-  config.vm.provision :shell, :path => "jenkins.sh" 
+  #config.vm.provision :shell, :path => "jenkins.sh" 
 
 
 end
