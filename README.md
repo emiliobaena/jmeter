@@ -23,5 +23,5 @@
 
 # Arrancar jmeter
 
-1. Ejecutar ``$ cd /usr/local/apache-jmeter-4.0/bin``
+1. Ejecutar ``$ cd /usr/local/apache-jmeter-5.1.1/bin``
 1. Ejecutar jmeter: ``$ sudo ./jmeter``
